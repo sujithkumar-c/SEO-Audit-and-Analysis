@@ -21,7 +21,6 @@ This project aims to analyze a company's digital presence, audit its website, re
 ---
 
 ### 🔍 2. Website Audit Report
-- **Company Website**: `[Insert URL]`
 
 #### 🎨 Design Analysis:
 - (Evaluate the visual design, branding, color scheme, consistency)
